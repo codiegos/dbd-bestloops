@@ -1,4 +1,5 @@
-import {Asy_Asylum,
+import {
+  Asy_Asylum,
   Asy_Chapel,
   Brl_MaHouse,
   Brl_Template,
@@ -33,7 +34,8 @@ import {Asy_Asylum,
   Swp_GrimPantry,
   Swp_PaleRose,
   Ukr_Saloon,
-  Wal_Level01} from '../assets/images/index'
+  Wal_Level01
+} from '../assets/images/index'
 
 export const maps = [
   {
@@ -288,5 +290,5 @@ export const maps = [
     category: '',
     urlImage: Wal_Level01
   }
-  
+
 ]

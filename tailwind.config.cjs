@@ -8,6 +8,9 @@ module.exports = {
     extend: {
       backgroundImage: {
         dbd: 'url("assets/dbd-bg.png")'
+      },
+      fontFamily: {
+        creepster: ['Creepster']
       }
 
     }
