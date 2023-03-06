@@ -1,3 +1,4 @@
+/* eslint-disable camelcase */
 import {
   Asy_Asylum,
   Asy_Chapel,

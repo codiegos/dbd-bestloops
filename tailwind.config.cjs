@@ -10,9 +10,24 @@ module.exports = {
         dbd: 'url("assets/dbd-bg.png")'
       },
       fontFamily: {
-        creepster: ['Creepster']
+        creepster: ['Creepster', 'cursive'],
+        marcellus: ['Marcellus SC', 'serif']
       }
-
+    },
+    animation: {
+      text: 'text 5s ease infinite'
+    },
+    keyframes: {
+      text: {
+        '0%, 100%': {
+          'background-size': '200% 400%',
+          'background-position': 'bottom left'
+        },
+        '50%': {
+          'background-size': '400% 200%',
+          'background-position': 'top right'
+        }
+      }
     }
   },
   plugins: []
