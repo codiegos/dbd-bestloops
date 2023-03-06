@@ -9,7 +9,7 @@ import {Asy_Asylum,
   Eng_ElmStreet04,
   Eng_ElmStreet05,
   Fin_TheGame,
-  Frn_Barn,
+  Frm_Barn,
   Frm_Cornfield,
   Frm_Farmhouse,
   Frm_Silo,
@@ -38,30 +38,30 @@ import {Asy_Asylum,
 export const maps = [
   {
     id: 1,
-    title: 'Asylum',
+    title: 'Disturbed Ward',
     description: '',
-    category: 'Asylum',
+    category: 'Crotus Prenn Asylum',
     urlImage: Asy_Asylum
   },
   {
     id: 2,
-    title: 'Asylum Chapel',
+    title: "Father Campbell's Chapel",
     description: '',
-    category: '',
+    category: 'Crotus Prenn Asylum',
     urlImage: Asy_Chapel
   },
   {
     id: 3,
-    title: 'Brl_MaHouse',
+    title: "Mother's Dwelling",
     description: '',
-    category: '',
+    category: 'Red Forest',
     urlImage: Brl_MaHouse
   },
   {
     id: 4,
-    title: 'Brl_Template',
+    title: 'The Temple of Purgation',
     description: '',
-    category: '',
+    category: 'Red Forest',
     urlImage: Brl_Template
   },
   {
@@ -115,44 +115,44 @@ export const maps = [
   },
   {
     id: 12,
-    title: 'Frn_Barn',
+    title: 'Fractured Cowshed',
     description: '',
-    category: '',
-    urlImage: Frn_Barn
+    category: 'Coldwind Farm',
+    urlImage: Frm_Barn
   },
   {
     id: 13,
-    title: 'Frm_Cornfield',
+    title: 'Rotten Fields',
     description: '',
-    category: '',
+    category: 'Coldwind Farm',
     urlImage: Frm_Cornfield
   },
   {
     id: 14,
-    title: 'Frm_Farmhouse',
+    title: 'The Thompson House',
     description: '',
-    category: '',
+    category: 'Coldwind Farm',
     urlImage: Frm_Farmhouse
   },
   {
     id: 15,
-    title: 'Frm_Silo',
+    title: 'Torment Creek',
     description: '',
-    category: '',
+    category: 'Coldwind Farm',
     urlImage: Frm_Silo
   },
   {
     id: 16,
-    title: 'Frm_Slaughterhouse',
+    title: 'Rancid Abattoir',
     description: '',
-    category: '',
+    category: 'Coldwind Farm',
     urlImage: Frm_Slaughterhouse
   },
   {
     id: 17,
-    title: 'Hos_Treatment',
+    title: 'Treatment Theatre',
     description: '',
-    category: '',
+    category: "Léry's Memorial Institute",
     urlImage: Hos_Treatment
   },
   {
@@ -171,37 +171,37 @@ export const maps = [
   },
   {
     id: 20,
-    title: 'Ind_CoalTower',
+    title: 'Coal Tower',
     description: '',
-    category: '',
+    category: 'The MacMillan Estate',
     urlImage: Ind_CoalTower
   },
   {
     id: 21,
-    title: 'Ind_Forest',
+    title: 'The MacMillan Estate',
     description: '',
-    category: '',
+    category: 'Shelter Woods',
     urlImage: Ind_Forest
   },
   {
     id: 22,
-    title: 'Ind_Foundry',
+    title: 'Ironworks of Misery',
     description: '',
-    category: '',
+    category: 'The MacMillan Estate',
     urlImage: Ind_Foundry
   },
   {
     id: 23,
-    title: 'Ind_Mine',
+    title: 'Suffocation Pit',
     description: '',
-    category: '',
+    category: 'The MacMillan Estate	',
     urlImage: Ind_Mine
   },
   {
     id: 24,
-    title: 'Ind_Storehouse',
+    title: 'Groaning Storehouse',
     description: '',
-    category: '',
+    category: 'The MacMillan Estate',
     urlImage: Ind_Storehouse
   },
   {
@@ -213,37 +213,37 @@ export const maps = [
   },
   {
     id: 26,
-    title: 'Jnk_Garage',
+    title: 'Wretched Shop',
     description: '',
-    category: '',
+    category: 'Autohaven Wreckers',
     urlImage: Jnk_Garage
   },
   {
     id: 27,
-    title: 'Jnk_GasStation',
+    title: 'Gas Heaven	',
     description: '',
-    category: '',
+    category: 'Autohaven Wreckers',
     urlImage: Jnk_GasStation
   },
   {
     id: 28,
-    title: 'Jnk_Lodge',
+    title: 'Blood Lodge',
     description: '',
-    category: '',
+    category: '	Autohaven Wreckers',
     urlImage: Jnk_Lodge
   },
   {
     id: 29,
-    title: 'Jnk_Office',
+    title: 'Azarov’s Resting Place',
     description: '',
-    category: '',
+    category: 'Autohaven Wreckers',
     urlImage: Jnk_Office
   },
   {
     id: 30,
-    title: 'Jnk_Scrapyard',
+    title: "Wreckers' Yard",
     description: '',
-    category: '',
+    category: 'Autohaven Wreckers',
     urlImage: Jnk_Scrapyard
   },
   {
@@ -255,23 +255,23 @@ export const maps = [
   },
   {
     id: 32,
-    title: 'Sub_Street',
+    title: 'Lampkin Lane',
     description: '',
-    category: '',
+    category: 'Haddonfield',
     urlImage: Sub_Street
   },
   {
     id: 33,
-    title: 'Swp_GrimPantry',
+    title: 'Grim Pantry',
     description: '',
-    category: '',
+    category: 'Backwater Swamp',
     urlImage: Swp_GrimPantry
   },
   {
     id: 34,
-    title: 'Swp_PaleRose',
+    title: 'The Pale Rose',
     description: '',
-    category: '',
+    category: 'Backwater Swamp',
     urlImage: Swp_PaleRose
   },
   {

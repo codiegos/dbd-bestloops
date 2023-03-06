@@ -9,7 +9,7 @@ import Eng_ElmStreet03 from './iconMap_Eng_ElmStreet03.png'
 import Eng_ElmStreet04 from './iconMap_Eng_ElmStreet04.png'
 import Eng_ElmStreet05 from './iconMap_Eng_ElmStreet05.png'
 import Fin_TheGame from './iconMap_Fin_TheGame.png'
-import Frn_Barn from './iconMap_Frm_Barn.png'
+import Frm_Barn from './iconMap_Frm_Barn.png'
 import Frm_Cornfield from './iconMap_Frm_Cornfield.png'
 import Frm_Farmhouse from './iconMap_Frm_Farmhouse.png'
 import Frm_Silo from './iconMap_Frm_Silo.png'
@@ -51,7 +51,7 @@ export {
     Eng_ElmStreet04,
     Eng_ElmStreet05,
     Fin_TheGame,
-    Frn_Barn,
+    Frm_Barn,
     Frm_Cornfield,
     Frm_Farmhouse,
     Frm_Silo,
